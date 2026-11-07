@@ -1,0 +1,1 @@
+# Node.js is a runtime, not a Python package. Configure Node.js dependencies in package.json.
